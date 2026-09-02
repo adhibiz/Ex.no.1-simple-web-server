@@ -135,5 +135,5 @@ Output:
 <img width="2862" height="1722" alt="image" src="https://github.com/user-attachments/assets/9cc491a0-03df-44f3-b712-54da0e8de795" />
 
 
-Result:
+## Result:
 Thus, the Simple Web Server using Spring Boot was successfully created and executed. The /hello endpoint returned "Hello World!" successfully.
