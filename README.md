@@ -118,7 +118,7 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String sayHello() {
-        return "Hello, Spring Boot!";
+        return "Spring Boot application is up and running!";
     }
 }
 
@@ -132,4 +132,6 @@ public class HelloController {
 
 Output:
 
+<img width="2412" height="1432" alt="image" src="https://github.com/user-attachments/assets/0edd1b5d-6ba9-4760-928d-a42d0247e975" />
 
+Result
